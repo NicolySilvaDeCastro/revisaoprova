@@ -1,0 +1,26 @@
+*{
+  background-color: rgb(231, 231, 231);
+ 
+}
+
+.content h1{
+  color: rgb(1, 0, 88);
+
+}
+.content input{
+  background-color: rgb(214, 214, 214);
+  border-radius: 15px;
+  height: 30px;
+}
+.content button{
+  background-color: rgb(1, 0, 88);
+  color:aliceblue;
+  border-radius: 10px;
+  height: 30px;
+}
+
+
+/* @media only screen and (max-width: 600px) {
+
+   
+} */
